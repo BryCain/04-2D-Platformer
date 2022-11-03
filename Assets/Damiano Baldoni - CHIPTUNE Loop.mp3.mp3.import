@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/Damiano Baldoni - CHIPTUNE Loop.mp3.mp3-145e51ae0784afb6881773cb983ec318.mp3str"
+
+[deps]
+
+source_file="res://Assets/Damiano Baldoni - CHIPTUNE Loop.mp3.mp3"
+dest_files=[ "res://.import/Damiano Baldoni - CHIPTUNE Loop.mp3.mp3-145e51ae0784afb6881773cb983ec318.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0
