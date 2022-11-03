@@ -25,6 +25,8 @@ Includes a user-controlled player that can jump, two different types of enemies,
 
 [Dogica typeface](https://fontlibrary.org/en/font/dogica)
 
+The player sprite is an adaptation of [MV Platformer Male](https://opengameart.org/content/mv-platformer-male-32x64) by MoikMellah. CC0 Licensed.
+
 ## Future Development
 None
 
