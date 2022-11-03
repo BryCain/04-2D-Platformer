@@ -2,9 +2,7 @@
 
 Project 04 - 2D Platformer for MSCH-C220 at IU Bloomington. Created November 2, 2022.
 
-This is my 2D Platformer for Project 4. Althought it only has one level, I have done my best to flesh it out with extra features such as menus and sound.
-
-Description
+This is my 2D Platformer for Project 4. It only has one level, but my main goal was to create an overall polished experience, so I primarily focused on aspects such as the graphics, sound, and menus.
 
 ## Implementation
 Includes a user-controlled player that can jump, two different types of enemies, a camera that follows the player, terrain, a score system, a live system, collectable gems, music, sound effects, different sprites, a background, a start-game menu, an end-game menu, a pause menu, a game over menu, and a HUD.
